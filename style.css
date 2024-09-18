@@ -1,0 +1,27 @@
+h3 {
+    color: green;
+}
+
+body {
+    background-color: turquoise
+}
+
+#myid {
+    color: bisque;
+    font-size: 20px
+}
+
+.myclass {
+    color: brown;
+    font-size: 20px
+}
+
+h6,
+p {
+    color: indigo;
+    font-size: 20px
+}
+
+p {
+    background-color: black
+}
